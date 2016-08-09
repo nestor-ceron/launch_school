@@ -1,0 +1,9 @@
+#mortgage_calc_messages.yaml
+
+welcome: "Welcome to montly loan Calculator"
+loan: "Enter in a your Loan amount:"
+months: "Enter in the number of months:"
+rate: "Enter in the annual rate in terms of percentage %:"
+goodbye: "Thank you for using the monthly loan calculator. Good Bye!"
+not_a_number: "Your monthly payment is not an actual number, try entering your numbers corretly."
+run_again: "Would you like to run the calculator again?(Y/N)"

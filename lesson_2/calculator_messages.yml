@@ -1,0 +1,32 @@
+# calculator_messages.yml
+en:
+  welcome: "Welcome to calculator! Enter in your name: "
+  valid_name: "Make sure you enter a name."
+  number_input: "Please enter the 2 numbers you wish to "
+  calculated_answer: "Your calculated answer is "
+  valid_operation: "#{operation} is not a valid option."
+  valid_numbers: "Hmm... Seems like your numbers are not valid. Try again."
+  run_again: "Would you like to make another calculation? (Y/N) "
+  goodbye: "Thank you for using the calculator. Good Bye!"  
+  operation_choice: >-
+    Please enter what type of operation you would like to perform:
+        add
+        subtract
+        multiply
+        divide
+
+es:
+  welcome: "Bienvenido a la Calculadora, Como te llamas? "
+  valid_name: "Este seguro que su nombre este correcto."
+  number_input: "Por favor entre 2 numeros para ejecutar su calculacion."
+  calculated_answer: "La respuesta a su calculacion es "
+  valid_operation: "#{operation} no es una operation valida."
+  valid_numbers: "Sus numeros no parecen estar bien, trate de nuevo."
+  run_again: "Desea hacer otra calculation? oprima 'Y' para Si y 'N' para No "
+  goodbye: "Gracias por usar la Calculadora, Tenga Buen Dia!"  
+  operation_choice: >-
+    Por favor entre la operation en cual desea ejecutar:
+        add - para agregar
+        subtract - para substituir
+        multiply - para multiplicar
+        divide - para dividir
