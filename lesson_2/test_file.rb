@@ -1,1 +1,2 @@
-#test file
+# test file
+Kernel.puts('Hello World!')
